@@ -1,0 +1,32 @@
+body{
+    background-color: #151829;
+}
+h1{
+    text-align: center;
+    color: #1698bd;
+}
+h2{
+    color: aliceblue;
+}
+img.cangiua{
+    display: block; margin-left: auto; margin-right: auto;
+}
+audio{
+    display: block; margin-left: auto; margin-right: auto;
+}
+div.a{
+    text-align: center;
+}
+/*
+<style>
+ .b{width: 4000px;}
+.div_left{
+    float: left;
+    text-align: center;
+}
+.div_right{
+    float: right;
+    text-align: center;
+}
+</style>
+
